@@ -1,0 +1,23 @@
+{
+  "name": "bas-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greesea/BASHelper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Greesea/BASHelper/issues"
+  },
+  "homepage": "https://github.com/Greesea/BASHelper#readme",
+  "dependencies": {
+    "fast-xml-parser": "^4.0.7",
+    "lodash-es": "^4.17.21"
+  }
+}
